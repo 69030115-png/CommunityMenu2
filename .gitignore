@@ -1,0 +1,8 @@
+__pycache__/
+build/
+dist/
+*.spec
+*.db
+settings.json
+default_key.py
+*.exe
